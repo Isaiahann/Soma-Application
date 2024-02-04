@@ -137,5 +137,6 @@ Future improvements may include:
 
 
 ## Contributors
-* Aniekan Isaiah: github.com/Isaiahann
-* Chippo Fatch: 
+* Aniekan Isaiah: http://github.com/Isaiahann
+* Chippo Fatch:
+* Rauna Ndapewoshali Kanu: https://github.com/PewaEmpire
