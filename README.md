@@ -7,6 +7,9 @@ https://www.figma.com/proto/KY0JI0a9wjwYDbmUn2Jumv/Soma-Project?type=design&node
 
 ### Solution image link
 
+### Documentation link
+https://registrargeneral-my.sharepoint.com/:o:/g/personal/chippo_fatch_registrargeneral_gov_mw/EiiGuXOJV5pGtsZt1wNZfpYBmEqOIcv3KPzqO615xu31EQ?e=AVWLAW
+
 ## 1. Project Idea and Pitch 
 
 The Soma mobile application aims to connect students seeking sponsorship, sponsors, and schools to facilitate direct support for education in Africa. The project idea is to create a platform that goes beyond traditional scholarship models, empowering the community to directly impact the educational journey of students, ensuring that financial barriers do not hinder their potential. A platform where sponsors be it individuals and organization will be able to select a student and pay for their needs be it tuition, accommodation bills or study materials. 
@@ -33,8 +36,6 @@ The primary aim of the Soma mobile application is to promote equitable access to
 
  
 
- 
-
  ## 5. Features 
 
 The Soma Mobile application will include the following key features: 
@@ -58,7 +59,7 @@ After account has been created the user logs in and is welcomed with interface w
 
 * Controls will be used by admins by putting controls in the system that the student ID used should have a limit of maximum period of stay in the system 
 
- Sponsorship funding 
+#### Sponsorship funding 
 
 Once the sponsor has selected a number of students, he or she will make direct payment to the school's account  and a notification will be sent to the student as well as the school accounts office and the Dean of Students 
 
