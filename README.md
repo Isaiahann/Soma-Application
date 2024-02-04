@@ -134,3 +134,8 @@ Future improvements may include:
 * Integrating additional payment gateways. 
 
 * Expanding language support for international users.
+
+
+## Contributors
+* Aniekan Isaiah: github.com/Isaiahann
+* Chippo Fatch: 
