@@ -1,11 +1,15 @@
 # Soma-Application
 
+### Figma design link
+https://www.figma.com/file/KY0JI0a9wjwYDbmUn2Jumv/Soma-Project?type=design&node-id=111%3A4&mode=design&t=pWgQVGtwRfgN5yvX-1
+
 ### figma Prototype link
 https://www.figma.com/proto/KY0JI0a9wjwYDbmUn2Jumv/Soma-Project?type=design&node-id=2456-3763&t=EQ6WgaysXKtxiCD3-1&scaling=scale-down&page-id=111%3A4&mode=design
 
 ### Demo video link
 
 ### Solution image link
+https://drive.google.com/file/d/1ZEsZb9hOlzcqKqBF4FRMuNJir4Dt87jk/view?usp=sharing
 
 ### Documentation link
 https://registrargeneral-my.sharepoint.com/:o:/g/personal/chippo_fatch_registrargeneral_gov_mw/EiiGuXOJV5pGtsZt1wNZfpYBmEqOIcv3KPzqO615xu31EQ?e=AVWLAW
@@ -140,3 +144,4 @@ Future improvements may include:
 * Aniekan Isaiah: http://github.com/Isaiahann
 * Chippo Fatch:
 * Rauna Ndapewoshali Kanu: https://github.com/PewaEmpire
+* siyhaphiri: https://github.com/siyhaphiri
